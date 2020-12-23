@@ -1,2 +1,2 @@
-# machine-learning-course
-Machine Learning course by Andrew Ng - notes
+## Machine Learning
+by Stanford University 
