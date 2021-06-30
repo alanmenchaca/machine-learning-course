@@ -6,7 +6,7 @@ This course provides a broad introduction to machine learning, datamining, and s
 
 The course will also draw from numerous case studies and applications, so that we'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
 
-#### My Certificate:
+#### My Course Certificate:
 https://www.coursera.org/account/accomplishments/verify/7Y6GJRNEFLH8
 
 ### Week 1 - Introduction, Model and Cost Function, Parameter Learning, Linear Algebra (Review)
