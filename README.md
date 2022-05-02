@@ -1,4 +1,5 @@
 ## Machine Learning course
+
 #### Brief description of the course:
 Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome.
 
@@ -74,7 +75,11 @@ Machine learning works best when there is an abundance of data to leverage for t
 #### Application Example: Photo OCR
 Identifying and recognizing objects, words, and digits in an image is a challenging task. We discuss how a pipeline can be built to tackle this problem and how to analyze and improve the performance of such a system.
 
+### Disclaimer
+The solutions to the assignments and quizzes uploaded here are **only for reference**.
+
 ---
+
 Taught by Andrew Ng. (Instructor)
 
 Offered by Stanford University
